@@ -37,6 +37,6 @@ calculate.addEventListener('click',function(){
             return (todayDate.getDate() + calDate.getDate()) - birthDate.getDate();
         }
     };
-    calculateAge.innerHTML = "carai menor você tem "+ageYear+" Anos "+ageMonth()+ " Messes "+ageDay()+" Dias"
+    calculateAge.innerHTML = "uau você tem "+ageYear+" Anos "+ageMonth()+ " Messes "+ageDay()+" Dias"
 
 });
