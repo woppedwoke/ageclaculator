@@ -1,7 +1,7 @@
 # age calculator
 
 
-# Gerador-de-senha- Senai
+# Gerador-de-senha
 
 <a style="font-size: 40px;" href="https://woppedwoke.github.io/ageclaculator/">Usar</a>
 
